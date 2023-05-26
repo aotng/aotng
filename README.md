@@ -1,6 +1,6 @@
 
 ![ViewCount](https://views.whatilearened.today/views/github/sachinchaturvedi93/sachinchaturvedi93.svg?cache=remove)
-### Hi there, I'm  <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+### Hi there, I'm <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
