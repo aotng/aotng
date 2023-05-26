@@ -1,5 +1,6 @@
 
-![ViewCount](https://views.whatilearened.today/views/github/sachinchaturvedi93/sachinchaturvedi93.svg?cache=remove)
+![ViewCount](https://views.whatilearened.today/views/github/aotng/aotng.svg?cache=remove)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aotng)](https://github.com/aotng/github-readme-stats)
 ### Hi there, I'm <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
