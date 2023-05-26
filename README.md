@@ -9,6 +9,11 @@
 
 ##### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [rsstest](http://www.aotng.com/2023/05/27/73d2551c80d2/)
+- [Ubuntu 安装 CORE network emulator](http://www.aotng.com/2023/05/26/f2f438279358/)
+- [中文 Web 阅读体验](http://www.aotng.com/2023/05/25/50146245ca03/)
+- [Ubuntu22.04装ROS1](http://www.aotng.com/2023/05/25/a16bf3c13e92/)
+- [轨迹预测01](http://www.aotng.com/2023/05/25/857a24d43026/)
 <!-- BLOG-POST-LIST:END -->
 
 
