@@ -1,57 +1,23 @@
+<h3 align="center">👋 Hello! I'm Jason.</h3>
 
-![ViewCount](https://views.whatilearened.today/views/github/aotng/aotng.svg?cache=remove)
-### Hi there, I'm <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
-
-[![Github](https://img.shields.io/badge/-Github-333?style=flat&logo=Github&logoColor=white)](https://github.com/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:sachin93@gmail.com)
-[![Spotify](https://img.shields.io/badge/-Spotify-1DB954?style=flat&logo=Spotify&logoColor=white)](https://open.spotify.com/user/flipcase93)
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)](https://kaggle.com/sachin93)
-## I'm a Machine Learning/Deep Learning Enthusiast!
-
-- I’m currently working on building my knowledge in the field of Data Science!
-  - Learning Computer Vision, Natural Language Processing
-  - Learning how to deploy Machine Learning/Deep Learning Models
-  - Reading papers on ML/DL/AI
-- I’m currently learning : 
-  - Deep Learning for Coders by [fast.ai](http://course.fast.ai)
-  - DeepLearning.AI TensorFlow Developer [Professional Certificate](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
-  - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow [Book](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
-- I’m looking to collaborate with other content creators
-- 2020/2021 Goals: Contribute more to Open Source projects
-- Fun fact: I have a degree in Civil Engineering! :construction_worker:
-<br />
-
-### Now Playing on Spotify <img src="https://github.com/iampavangandhi/iampavangandhi/blob/master/gifs/bars.gif" width="200px">
-[![Spotify](https://novatorem.sachinchaturvedi93.vercel.app/api/spotify)](https://open.spotify.com/user/)
-
-### Languages and Tools:
-
-<!-- Your github readme stats
-You can use this api: https://github.com/anuraghazra/github-readme-stats
--->
-<p>
-    <img width="55%" align="right" alt="aotng's github stats" src="https://github-readme-stats.vercel.app/api?username=aotng&show_icons=true&hide_border=true"/>
-
-  <!-- Your languages and tools. Be careful with the alignment. 
-  You can use this sites to get logos: https://www.vectorlogo.zone or https://simpleicons.org/
-  -->
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
-  <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
-  
+<p align="center">
+  <a href="https://jasonet.co">Blog</a> •
+  <a href="https://twitter.com/JasonEtco">Twitter</a>
 </p>
+
+---
+
+##### Blog posts
+
+<!--START_SECTION:posts-->
+* [CODEOWNERS-driven file organization](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;codeowners-driven-organization&#x2F;)
+* [Remix first impressions](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;remix-first-impressions&#x2F;)
+* [On &quot;Spike work&quot;](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;on-spike-work&#x2F;)
+* [Assorted thoughts on documentation](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;thoughts-on-docs&#x2F;)
+* [On &quot;lurking&quot;](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;on-lurking&#x2F;)
+<!--END_SECTION:posts-->
+
+##### Here's a photo of my cat:
+
+| <img width="1009" alt="Mooki" src="https://user-images.githubusercontent.com/10660468/205749035-9dfaad77-f003-441b-9b7f-d739452e9c82.png"> |
+| --- |
