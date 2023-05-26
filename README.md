@@ -54,9 +54,4 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-ar21.svg"></code>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aotng&hide=jupyter%20notebook&show_icons=true&layout=compact&hide_border=true)](https://github.com/aotng/github-readme-stats)
-  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aotng)](https://github.com/aotng/github-readme-stats)
-
-
 </p>
