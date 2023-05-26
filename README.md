@@ -4,7 +4,7 @@
   <a href="https://jasonet.co">Blog</a> •
   <a href="https://twitter.com/JasonEtco">Twitter</a>
 </p>
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aotng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 ---
 
 ##### Blog posts
