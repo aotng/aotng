@@ -9,6 +9,7 @@
 
 ##### Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [光阴的长廊](http://www.aotng.com/2023/06/06/37835c605034/)
 - [Ubuntu 安装 CORE network emulator](http://www.aotng.com/2023/05/26/f2f438279358/)
 - [中文 Web 阅读体验](http://www.aotng.com/2023/05/25/50146245ca03/)
 - [Ubuntu22.04装ROS1](http://www.aotng.com/2023/05/25/a16bf3c13e92/)
