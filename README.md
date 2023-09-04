@@ -20,7 +20,7 @@
 
 ##### Here's a photo of my cat:
 
-| <img width="1009" alt="Mooki" src="https://user-images.githubusercontent.com/10660468/205749035-9dfaad77-f003-441b-9b7f-d739452e9c82.png"> |
+| <img width="1009" alt="Mooki" src=""> |
 | --- |
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aotng&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
